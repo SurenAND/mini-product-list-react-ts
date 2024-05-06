@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "2020 Chevrolet Corvette",
+      "image": "2020-Chevrolet-Corvette",
+      "price": 100,
+      "description": "This is a short description of 2020 Chevrolet Corvette.",
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "title": "2023 Hyundai Kona",
+      "image": "2023-Hyundai-Kona",
+      "price": 100,
+      "description": "This is a short description of 2023 Hyundai Kona.",
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "title": "2024 Benz AMG GT",
+      "image": "2024-benz-amg-gt",
+      "price": 100,
+      "description": "This is a short description of 2024 Benz AMG GT.",
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "title": "2024 Rolls Royce Phantom",
+      "image": "2024-rolls-royce-phantom",
+      "price": 100,
+      "description": "This is a short description of 2024 Rolls Royce Phantom.",
+      "isAvailable": false
+    }
+  ]
+}
