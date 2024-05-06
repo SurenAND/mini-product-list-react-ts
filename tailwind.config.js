@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-        sh1: "rgba(0, 0, 0, 0.24) 0px 3px 8px;",
+        sh1: "rgba(0, 0, 0, 0.16) 0px 0px 2px",
       },
       fontFamily: {
         "poppins-r": ["Poppins-Regular", "sans-serif"],
