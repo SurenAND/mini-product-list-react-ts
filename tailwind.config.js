@@ -2,7 +2,15 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: {
+        sh1: "rgba(0, 0, 0, 0.24) 0px 3px 8px;",
+      },
+      fontFamily: {
+        "poppins-r": ["Poppins-Regular", "sans-serif"],
+        "poppins-b": ["Poppins-Bold", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };
